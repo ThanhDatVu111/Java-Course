@@ -9,7 +9,7 @@ public class main {
         String name = scanner.nextLine();  // Read a line of text (user's name)
 
         // Prompt the user to enter their age
-        System.out.print("Enter your age: ");
+        System.out.print("Enter your height: ");
         int age = scanner.nextInt();  // Read an integer (user's age)
 
         // Output the results
